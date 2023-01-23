@@ -41,6 +41,7 @@ The purpose of this architecture definition is to provide a solution design and 
 - Login should have low latency , 
 - Availability should be 99.9%
 - Highly secure
+- Strong consistency
 
 ## Product Service
 - Add or Search Product
