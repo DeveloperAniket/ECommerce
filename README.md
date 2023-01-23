@@ -36,8 +36,26 @@ The purpose of this architecture definition is to provide a solution design and 
 <img width="639" alt="image" src="https://user-images.githubusercontent.com/9957969/214040693-ed00ae78-904c-4adc-b8fa-4885ab82ddb6.png">
 
 
-## Login service and Registry Service
+## User Service
 - Functional  Login using facebook ,Twitter or manual registed user
 - Login should have low latency , 
 - Availability should be 99.9%
-- 
+- Highly secure
+
+## Product Service
+- Add or Search Product
+- Highly Available
+- Should be follow Eventual consistency
+- Low Latency
+
+## Order Service
+- Manage Order
+- Highly Available
+- Should be follow Strong consistency
+- Low Latency
+
+# Payment Service
+- External Service 
+
+# Logistic Service
+- External Service
