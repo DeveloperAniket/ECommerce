@@ -33,7 +33,7 @@ The purpose of this architecture definition is to provide a solution design and 
 
 
 ## System Context 
-![image](https://user-images.githubusercontent.com/9957969/214040403-27cf0b18-5b8c-4fa3-be2d-03709b5446ee.png)
+<img width="639" alt="image" src="https://user-images.githubusercontent.com/9957969/214040693-ed00ae78-904c-4adc-b8fa-4885ab82ddb6.png">
 
 
 ## Login service and Registry Service
