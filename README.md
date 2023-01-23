@@ -31,6 +31,13 @@ The purpose of this architecture definition is to provide a solution design and 
 - Consistency
 - Latency
 
+
 ## System Context 
+![image](https://user-images.githubusercontent.com/9957969/214040403-27cf0b18-5b8c-4fa3-be2d-03709b5446ee.png)
 
 
+## Login service and Registry Service
+- Functional  Login using facebook ,Twitter or manual registed user
+- Login should have low latency , 
+- Availability should be 99.9%
+- 
