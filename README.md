@@ -26,7 +26,10 @@ The purpose of this architecture definition is to provide a solution design and 
 - System should be avaiable 24 X 7. System need to be fault tollarante. 
 - Must be integrate with Shipping software that will automate the management of outgoing shipment of customer orders, create and print shipping labels, and import tracking information for orders, and generate automated customer emails.
 
-
+## NFR
+- Availability
+- Consistency
+- Latency
 
 ## System Context 
 
