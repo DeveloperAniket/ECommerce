@@ -68,3 +68,6 @@ The purpose of this architecture definition is to provide a solution design and 
 - Highly Available
 - Should be follow Strong consistency
 - Low Latency
+
+## Draft DB Diagram
+![ecommerce-platform-data-1](https://user-images.githubusercontent.com/9957969/219305272-16f91741-956b-4208-a2d7-c1c04baba383.jpg)
