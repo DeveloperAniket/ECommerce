@@ -62,3 +62,9 @@ The purpose of this architecture definition is to provide a solution design and 
 
 # Logistic Service
 - External Service
+
+# Cart Service
+- Manage User Cart
+- Highly Available
+- Should be follow Strong consistency
+- Low Latency
