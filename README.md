@@ -35,6 +35,8 @@ The purpose of this architecture definition is to provide a solution design and 
 ## System Context 
 <img width="639" alt="image" src="https://user-images.githubusercontent.com/9957969/214040693-ed00ae78-904c-4adc-b8fa-4885ab82ddb6.png">
 
+## Functional Diagram
+![Untitled Diagram1](https://user-images.githubusercontent.com/9957969/219303988-c0b487fa-1e0a-4581-ab71-eb0d6edd44bc.jpg)
 
 ## User Service
 - Functional  Login using facebook ,Twitter or manual registed user
